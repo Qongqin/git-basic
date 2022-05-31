@@ -1,3 +1,5 @@
-new file by JonSnow Zheng!
-updated...
-updated from github!
+What is the difference between add, commit, and push?
+
+add: move non-ignored files from the workspace to the staging area
+commit: move files from the staging area to local repository
+push: move files from local repository to remote repository
